@@ -1,11 +1,5 @@
 # README
 
-🚀 Como executar
-Clone o projeto e acesse a pasta do mesmo.
-
-$ git clone https://github.com/chaiennecsilva/desafio-mconf
-$ cd desafio-mconf
-
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
