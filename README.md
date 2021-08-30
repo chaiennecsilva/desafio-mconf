@@ -1,6 +1,6 @@
 ## README
 
-Primeiro projeto desenvolvimento em Ruby in rails.
+💻 Projeto: Primeiro projeto desenvolvimento em Ruby in rails.
 
 Pagina Listagem
 ![image](https://user-images.githubusercontent.com/86750844/131270016-87d99502-3573-4e17-9e10-5926b2ba0e2f.png) 
