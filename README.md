@@ -12,6 +12,7 @@ Pagina de edição do artigo
 ![image](https://user-images.githubusercontent.com/86750844/131270115-c7fa2d55-bb90-4451-a2ed-38dca9bb59f1.png)
 
 ![image](https://user-images.githubusercontent.com/86750844/131270136-000a2132-42b2-4901-9ee2-dece40a6529d.png)
+
 Pagina de excluir o artigo da listagem
 
 
